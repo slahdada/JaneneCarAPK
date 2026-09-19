@@ -1,0 +1,2 @@
+Splash screen mis à jour avec la dernière image fournie par l'utilisateur.
+Fichiers remplacés : public/splash-screen.png, public/splash-android-portrait.png, public/splash-android-landscape.png, public/android12-splash-brand.png.

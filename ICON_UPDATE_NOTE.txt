@@ -1,0 +1,3 @@
+Icône Android et icônes web remplacées par le logo JaneneCar fourni par l'utilisateur.
+Les anciennes icônes à thème licorne/placeholder ont été supprimées des ressources préparées.
+Ressources Android prêtes : android_icon_resources/mipmap-* et mipmap-anydpi-v26.

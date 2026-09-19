@@ -1,0 +1,6 @@
+{
+  "name": "Janen_Car",
+  "description": "Application professionnelle de gestion de location de voitures : flotte automobile, chauffeurs, contrats, retours et statistiques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
