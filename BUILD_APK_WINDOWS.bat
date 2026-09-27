@@ -21,7 +21,7 @@ if exist android\app\build\outputs\apk\debug\app-debug.apk (
   echo APK cree avec succes : %CD%\Janen_Car.apk
   echo Vous pouvez copier Janen_Car.apk sur votre telephone Android.
 ) else (
-  echo ERREUR: APK non trouve apres compilation.
+  echo ERREUR: apk non trouve apres compilation.
 )
 pause
 exit /b 0

@@ -1,10 +1,10 @@
-# Générer l'APK Janen_Car
+# Générer l'APK janen_car
 
 Le projet est configuré avec Capacitor :
 - nom Android : `Janen_Car`
 - identifiant : `com.janen.car`
 - icône : voiture + clé + validation
-- sortie APK attendue : `Janen_Car.apk`
+- sortie APK attendue : `janen_car.apk`
 
 ## Windows — méthode la plus simple
 
@@ -12,7 +12,7 @@ Le projet est configuré avec Capacitor :
 2. Installer **Java/JDK 21** et **Node.js**.
 3. Extraire ce ZIP.
 4. Double-cliquer sur `BUILD_APK_WINDOWS.bat`.
-5. À la fin, le fichier `Janen_Car.apk` sera créé à la racine du projet.
+5. À la fin, le fichier `janen_car.apk` sera créé à la racine du projet.
 
 ## En terminal Windows
 
